@@ -45,12 +45,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   golfBallPrefab: {fileID: 1933343810007019069, guid: c60a950aa63971e44b99121217ecfc19, type: 3}
-  agent: {fileID: 0}
+  character: {fileID: 0}
   spawnParent: {fileID: 0}
   golfBallData:
     spawnCount: 100
     minDistance: 2
     spawnRadius: 50
     maxRetriesPerCell: 5
-    hardBallDistance: 50
-    midBallDistance: 25
+    hardBallDistance: 40
+    midBallDistance: 15
